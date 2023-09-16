@@ -9,6 +9,11 @@
     padding: 0;
     background-color: #EEF3FA;
   }
+
+  .container-estrategia {
+    width: 65vw;
+    margin: 190px;
+  }
   
   .menu-master {
     display: flex;
